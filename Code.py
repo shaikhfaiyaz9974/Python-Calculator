@@ -1,7 +1,13 @@
+######################################
 #Simple Calculator for practice
 
+#Author: Faiyaz shaikh
+#Date: 30/12/2023
+
+######################################
+
 num1= int(input("Enter your first number: "))
-num2= int(input("Enter Your Secound Number: "))
+num2= int(input("Enter Your Second Number: "))
 
 opr= input ("enter Your Oprator: ")
 
